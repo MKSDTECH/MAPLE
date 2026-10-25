@@ -17,9 +17,9 @@ Key Features
 
 - Studio workspaces: a shared library with roles for each studio, and a Personal workspace for everyone.
 
-Requirements: Rhino 8 SR9 or later on Windows or Mac, and a Maple3D account.
+Requirements: Rhino 8 SR9 or later on Windows, and a Maple3D account.
 
-Download: [maple3d.mksdtech.com/download](https://maple3d.mksdtech.com/download)
+Download: [Maple3D.Rhino.exe](https://github.com/MKSDTECH/MAPLE/releases/download/BETA/Maple3D.Rhino.exe) for Windows, or [maple3d.mksdtech.com/download](https://maple3d.mksdtech.com/download)
 
 Support: [info@mksdtech.com](mailto:info@mksdtech.com)
 
